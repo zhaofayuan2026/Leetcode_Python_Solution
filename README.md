@@ -1,0 +1,2 @@
+# Leetcode_Python_Solution
+个人算法练习库，使用python练习Leetcode,始于2026夏
